@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Student at Kristianstad Högskola",
+    "organisation": "HKR",
+    "startDate": "Sept, 2021",
+    "endDate": "Jun, 2024",
+    "experiences": ["Gained a wide understanding of software development", "Built multiple applications in a veriety of languages and frameworks"],
+    "imageSrc": "history/HKR.png"
+  },
+  {
+    "role": "Developer",
+    "organisation": "Proffesional Network",
+    "startDate": "Jun, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Developed a desktop application in windows forms", "Allowed user to access and modify cosmos DB database and SQL database"],
+    "imageSrc": "history/Database.png"
+  }
+]

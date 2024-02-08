@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Project Medlemma",
+    "imageSrc": "projects/Medlemma.png",
+    "description": "In this project me and four others developed a android app that allowed users to manage their memberships",
+    "skills": ["Kotlin", "Jetpack Compose", "Firebase"],
+    "demo": "https://github.com/Stuhren/Medlemma"
+  },
+  {
+    "title": "Project Interactive house",
+    "imageSrc": "projects/project.png",
+    "description": "In this project me and my team developed both a website and a android app that could controle a model of a house. for example turn the lights on and off",
+    "skills": ["React", "Kotlin", "HTML", "CSS", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
