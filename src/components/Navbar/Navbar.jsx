@@ -16,7 +16,6 @@ export const Navbar = () => {
     document.body.appendChild(aTag);
     aTag.click();
     aTag.remove();
-    
   };
 
   return (
