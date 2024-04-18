@@ -9,9 +9,9 @@
   {
     "title": "Project Interactive house",
     "imageSrc": "projects/project.png",
-    "description": "In this project me and my team developed both a website and a android app that could controle a model of a house. for example turn the lights on and off",
-    "skills": ["React", "Kotlin", "HTML", "CSS", "Firebase"],
-    "demo": "https://www.example.com",
+    "description": "In this project me and my team developed both a website and a app that could controle a model of a house. For example turn the lights on and off",
+    "skills": ["React Native", "Expo", "Firebase"],
+    "demo": "https://github.com/SoftwareEngineering-Group2/Frontend",
     "source": "https://www.github.com"
   }
 ]

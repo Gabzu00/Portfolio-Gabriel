@@ -6,8 +6,8 @@ import {getImageUrl} from "../../utils"
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
-  const CVFile = "https://melodic-churros-ee29ea.netlify.app/assets/PDFDocuments/CVGabrielPetersson.pdf";
-
+  const CVFile = "https://gabriel-petersson.netlify.app/assets/CVGabrielPetersson-qZWW62N_.pdf";
+  
   const downloadFile = (url) => {
     const fileName = url.split('/').pop();
     const aTag = document.createElement('a');
